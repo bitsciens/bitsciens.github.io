@@ -89,8 +89,8 @@ $(document).ready(function() {
      */
     if ( $('#googleMap').length ) {
         var mapProp = {
-            center: new google.maps.LatLng(51.508742,-0.120850),
-            zoom:9,
+            center: new google.maps.LatLng(-23.5665713,-46.6517946),
+            zoom:15,
     scrollwheel: false,
     navigationControl: false,
     mapTypeControl: false,
@@ -108,8 +108,8 @@ $(document).ready(function() {
      */
     if ( $('#googleMap').length ) {
         var mapProp = {
-            center: new google.maps.LatLng(41.878114, -87.629798),
-            zoom:9,
+            center: new google.maps.LatLng(-23.5665713,-46.6517946),
+            zoom:15,
             scrollwheel: false,
             mapTypeId: google.maps.MapTypeId.ROADMAP
         };

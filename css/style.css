@@ -78,8 +78,9 @@ a:active {
 }
 .title {
   text-align: center;
-  padding-bottom: 70px;
+  padding-bottom: 5px;
 }
+
 .title h2 {
   color: #333;
   font-size: 25px;
@@ -113,6 +114,8 @@ a:active {
   font-weight: 300;
   color: #817C7C;
 }
+
+
 #mixed-items .mix {
   display: none;
 }
@@ -537,7 +540,7 @@ header .navbar {
   display: none !important;
 }
 #testimonial {
-  padding: 77px 0;
+  padding: 87px 0;
 }
 #testimonial .col {
   position: relative;
@@ -596,7 +599,7 @@ header .navbar {
   color: #787878;
 }
 #team {
-  padding: 80px 0 180px;
+  padding: 95px 0 90px;
 }
 #team .block {
   position: relative;
@@ -852,7 +855,7 @@ footer .block a{
    Service page style
    ===================== */
 #client-logo {
-  padding: 0 0 100px;
+  padding: 0 0 0;
   text-align: center;
 }
 #client-logo a {
